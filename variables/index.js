@@ -18,10 +18,12 @@ console.log(name); /* Sergio */
 
 const NAME = "Adrian";
 
-NAME = "Sergio"; // ERROR
+// NAME = "Sergio"; // ERROR
 
 // Approach
 
 let sName = "Adrian";
 let iAge = 27;
 let bIsDeveloper = true;
+
+console.log(age + age);
